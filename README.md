@@ -8,7 +8,7 @@
 ## 1 - Nombre
 ![telegram-cloud-photo-size-1-5172459132555471582-y](https://user-images.githubusercontent.com/31971734/151903783-7d3861f9-ff7a-4409-bfd2-b05d6a49bda2.jpg)
 
-## 2 - Nombre
+## 2 - Jaime
 ![telegram-cloud-photo-size-1-5172459132555471583-y](https://user-images.githubusercontent.com/31971734/151903833-26b08729-f400-4c93-8cb0-0578c3766c73.jpg)
 
 ## 3 - Nombre
