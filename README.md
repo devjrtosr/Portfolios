@@ -26,5 +26,5 @@
 ## 7 - Nombre
 ![image](https://user-images.githubusercontent.com/31971734/151904161-ef4c3bb8-3a26-4c78-8b7f-c6850eab2698.png)
 
-## 8 - Nombre
+## 8 - Yessica Montero
 ![img2](http://www.bypeople.com/wp-content/uploads/2016/02/2016-02-09_15245678.jpg)
