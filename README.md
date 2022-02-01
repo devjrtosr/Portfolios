@@ -15,10 +15,9 @@
 ![telegram-cloud-photo-size-1-5172459132555471583-y](https://user-images.githubusercontent.com/31971734/151903833-26b08729-f400-4c93-8cb0-0578c3766c73.jpg)
 
 ## 3 - Karina
-
 ![telegram-cloud-photo-size-1-5172459132555471584-y](https://user-images.githubusercontent.com/31971734/151903893-a8ebc252-e3ad-4705-94c8-509e8d2a5fa4.jpg)
 
-## 4 - Nombre
+## 4 - Marlon
 
 ![telegram-cloud-photo-size-1-5172459132555471585-y](https://user-images.githubusercontent.com/31971734/151903918-f4d229e9-fc93-415f-8a0b-1698cae804af.jpg)
 
@@ -34,6 +33,5 @@
 
 ![image](https://user-images.githubusercontent.com/31971734/151904161-ef4c3bb8-3a26-4c78-8b7f-c6850eab2698.png)
 
-## 8 - Nombre
-
+## 8 - Yessica Montero
 ![img2](http://www.bypeople.com/wp-content/uploads/2016/02/2016-02-09_15245678.jpg)
