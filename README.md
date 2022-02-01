@@ -3,6 +3,7 @@
 ## Reglas
 1. Carpeta con el formato Portfolio-Nombre
 2. Cada img debe redirigir a la página
+3. Cada cambio debe de ir en un branch con el formato Portfolio-Nombre (Nadie toca `master`)
 
 ## 1 - Nombre
 ![telegram-cloud-photo-size-1-5172459132555471582-y](https://user-images.githubusercontent.com/31971734/151903783-7d3861f9-ff7a-4409-bfd2-b05d6a49bda2.jpg)
