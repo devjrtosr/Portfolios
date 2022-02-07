@@ -394,6 +394,7 @@
 
 @media only screen and (max-width: 768px) {
   .menu {
+    height: 110vh;
     transform: translateX(-350px);
     z-index: 1;
   }
@@ -405,6 +406,54 @@
   .contenido-imagen .imagen {
     height: 125px;
     width: 125px;
+  }
+
+  .contenedor-what-im-good-at,
+  .contenedor-my-work,
+  .contenedor-contact-me {
+    margin: 0 5%;
+  }
+
+  .contenidos-about-me {
+    flex-direction: column;
+  }
+
+  .imagen-about-me {
+    height: 220px;
+    margin-bottom: 30px;
+    width: 330px;
+  }
+
+  .btn-read-more {
+    margin-bottom: 50px;
+  }
+
+  .contenidos-what-im-good-at,
+  .contenidos-my-work {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tarjeta-contenido-what-im-good-at {
+    width: 345px;
+  }
+
+  .contenidos-my-work .tarjeta-contenido-my-work .imagen-secion-my-work {
+    width: 330px;
+  }
+
+  .contenidos-my-work .tarjeta-contenido-my-work .informacion-tarjeta-my-work {
+    width: 260px;
+  }
+
+  .seccion-contact-me {
+    height: 850px;
+  }
+
+  .contenedor-campos-contact-me {
+    display: flex;
+    flex-direction: column;
   }
 }
 
